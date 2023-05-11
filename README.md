@@ -1,3 +1,6 @@
-# clicadoc
-https://clicadoc-01.netlify.app/
-https://clicadoc-01.netlify.app/saude-do-homem
+# Blog_Jesus_Revolution
+
+
+Inspired by the idea of reaching people through the gospel, devotionals, lives and gatherings.
+
+
